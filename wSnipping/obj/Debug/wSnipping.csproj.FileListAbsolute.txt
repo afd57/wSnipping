@@ -1,0 +1,9 @@
+c:\users\root\documents\visual studio 2013\Projects\wSnipping\wSnipping\bin\Debug\wSnipping.exe.config
+c:\users\root\documents\visual studio 2013\Projects\wSnipping\wSnipping\bin\Debug\wSnipping.exe
+c:\users\root\documents\visual studio 2013\Projects\wSnipping\wSnipping\bin\Debug\wSnipping.pdb
+c:\users\root\documents\visual studio 2013\Projects\wSnipping\wSnipping\obj\Debug\wSnipping.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2013\Projects\wSnipping\wSnipping\obj\Debug\wSnipping.Form1.resources
+c:\users\root\documents\visual studio 2013\Projects\wSnipping\wSnipping\obj\Debug\wSnipping.Properties.Resources.resources
+c:\users\root\documents\visual studio 2013\Projects\wSnipping\wSnipping\obj\Debug\wSnipping.csproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2013\Projects\wSnipping\wSnipping\obj\Debug\wSnipping.exe
+c:\users\root\documents\visual studio 2013\Projects\wSnipping\wSnipping\obj\Debug\wSnipping.pdb
